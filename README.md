@@ -5,9 +5,10 @@ This is an early prototype of **Blackfire Ops**, a fast-paced platformer + comba
 The game is still under heavy development — expect bugs, unfinished content, and placeholder assets.
 
 ## 🎮 How to Play
-1. Download [Here!](BlackfireOps.zip)
+1. Download [Here](https://www.mediafire.com/file/1nz3h109ilrlpmo/BlackfireOps.zip/file)
 2. Extract the ZIP file
 3. Run `BlackfireOps.exe` to launch the game
+4. Create shortcut (Optional)
 
 ## 🛠️ Current Status
 - Early prototype (v2024.4.8)
