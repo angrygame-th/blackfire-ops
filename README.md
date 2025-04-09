@@ -11,7 +11,7 @@ The game is still under heavy development — expect bugs, unfinished content, a
 4. Create shortcut (Optional)
 
 ## 🛠️ Current Status
-- Early prototype (v2024.4.8)
+- Early prototype (v2025.4.8)
 - Just offline page
 
 ## 📢 Follow Development
